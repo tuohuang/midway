@@ -229,7 +229,7 @@ export class UserService {
 ### 动态创建实例
 
 
-也可以通过基类的 `createInstance` 方法动态获取实例。
+也可以通过基类的 `createInstance` 方法动态创建实例。
 
 
 :::caution
